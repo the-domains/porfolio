@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Portfolio]]></title>
         <description><![CDATA[Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/porfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 00:00:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 00:05:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/porfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f8fcbac-4633-4f21-83fd-3dde63444118.png">]]></description>
+            <link>https://thegrid.ai/porfolio/7d676d97-d1f2-4828-a5ad-fd5caf9d173a/index.html</link>
+            <guid isPermaLink="false">7d676d97-d1f2-4828-a5ad-fd5caf9d173a</guid>
+            <pubDate>Wed, 23 Dec 2015 00:05:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[herman]]></title>
-            <description><![CDATA[<article><h1>herman</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a58ca9334e7787e95bfc9d4b2ac218017a6f646d.png"></article>]]></description>
-            <link>undefinedherman/index.html</link>
+            <description><![CDATA[<article><h1>herman</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74a9cfe6be1f5dab7d7fd6ab872ab15032f398b8.png"></article>]]></description>
+            <link>https://thegrid.ai/porfolio/herman/index.html</link>
             <guid isPermaLink="false">2b9c199a-406c-4aad-bae7-bf379b5cff8e</guid>
             <pubDate>Tue, 22 Dec 2015 23:59:41 GMT</pubDate>
         </item>

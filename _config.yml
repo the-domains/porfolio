@@ -1,7 +1,7 @@
 name: Porfolio
 favicon: null
-layout_spectrum: 0.49722
-typography_spectrum: 0.9924015023279935
+layout_spectrum: 1
+typography_spectrum: 0.24956
 title: Portfolio
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#f7b263'
     - '#fc4494'
   brandStrength: 0
-  lightness: 0.28102666418999434
+  lightness: 0.8125
   saturation: 0.14026067312806845
-  rhythmicContrast: 0.0272204561624676
+  rhythmicContrast: 0.5
 purpose: []
